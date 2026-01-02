@@ -121,5 +121,4 @@ Please credit the author when redistributing publicly.
 
 ⭐ If you like this project, don’t forget to give it a star on GitHub!
 🖤 Thanks for visiting Aryan’s World!
-
 </section>
